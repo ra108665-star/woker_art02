@@ -17,47 +17,47 @@ const ARTWORKS_DATA: Artwork[] = [
     category: 'Digital',
     imageUrl: 'images/yoda.png',     
     description: 'Screenshot do Yoda',
-    year: '2024'
+    year: '2026'
   },
   {
     id: 2,
-    title: 'hey frank!',
+    title: 'Gravity Falls!',
     category: 'Telas',
-    imageUrl: 'https://i.pinimg.com/1200x/30/7a/be/307abe52dc5ebfe5a34be1ee22314b2c.jpg',
-    description: 'uma referencia a welcome home e seus amigos da vizinhança',
-    year: '2023'
+    imageUrl: 'images/gravity_falls.png',
+    description: 'logo do Gravity Falls',
+    year: '2026'
   },
   {
     id: 3,
-    title: 'BillFord',
+    title: 'Regular Show',
     category: 'Conceito',
-    imageUrl: 'https://i.pinimg.com/736x/f6/1c/da/f61cda39af70463fef5bc60d594f005b.jpg',
-    description: 'Sobre a descrição de O Mentor("muse") de stanford pines',
-    year: '2024'
+    imageUrl: 'images/baby_ducks.png',
+    description: 'Super patos',
+    year: '2026'
   },
   {
     id: 4,
-    title: 'Sexbob-omb',
+    title: 'Curso de HTML e CSS para iniciantes, ft. Guanabara',
     category: 'Digital',
-    imageUrl: 'https://i.pinimg.com/736x/fc/6d/b0/fc6db0922eb902a99e4c079113069726.jpg',
-    description: 'o trio um tanto azarado em cartoon',
-    year: '2024'
+    imageUrl: 'images/html_css_guanabara.png',
+    description: 'curso parte 1',
+    year: '2026'
   },
   {
     id: 5,
-    title: 'cyberpunk edrunners',
+    title: 'Curso de Javascript por Guanabara',
     category: 'Digital',
-    imageUrl: 'https://i.pinimg.com/1200x/17/5a/4c/175a4c99abad81def93361478c11a7f3.jpg',
+    imageUrl: 'images/js_guanabara.png',
     description: 'todo o grupo ainda vivo de Night cyty',
-    year: '2024'
+    year: '2026'
   },
   {
     id: 6,
-    title: 'O hobbit: Thorin',
+    title: 'Curso completo de HTML, CSS, JS, React pelo team Odin Project',
     category: 'Digital',
-    imageUrl: 'https://i.pinimg.com/736x/e8/06/a0/e806a03e65c9afbd7cdb64f2dedb3bc6.jpg',
-    description: 'O principe dos anões e sua luta contra a avareza',
-    year: '2024'
+    imageUrl: 'images/odin_project.png',
+    description: 'curso do Odin Project',
+    year: '2026'
   }
 ];
 
