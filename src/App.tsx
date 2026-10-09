@@ -7,7 +7,6 @@ interface Artwork {
   category: string;
   imageUrl: string;
   description: string;
-  technique?: string;
   year: string;
 }
 
@@ -221,7 +220,6 @@ export default function App() {
               <div>
                 <span className="art-category">{selectedArt.category} ({selectedArt.year})</span>
                 <h3>{selectedArt.title}</h3>
-                {selectedArt.technique && <p><strong>Técnica:</strong> {selectedArt.technique}</p>}
                 <p>{selectedArt.description}</p>
               </div>
               <button 
