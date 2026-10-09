@@ -14,10 +14,10 @@ interface Artwork {
 const ARTWORKS_DATA: Artwork[] = [
   {
     id: 1,
-    title: 'The Fulcrums',  
+    title: 'Star Wars',  
     category: 'Digital',
-    imageUrl: 'https://i.pinimg.com/736x/db/fb/58/dbfb587d71f0d9f6171ce2f2ba0cfe82.jpg',     
-    description: 'Arte conceitual unindo os agentes Fulcrum: Ahsoka Tano, Alexsandr Kallus e Cassian Andor',
+    imageUrl: 'images/yoda.png',     
+    description: 'Screenshot do Yoda',
     year: '2024'
   },
   {
